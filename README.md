@@ -6,7 +6,7 @@ This model simulates a factory.
 
 It is meant for education and inspiration.
 
-It is the code of this tutorial:
+I wrote a detailed tutorial:
 
 - English: [Introduction to simulation with NetLogo: how to create a small factory?](https://thibaut-deveraux.medium.com/introduction-to-simulation-with-netlogo-how-to-create-a-small-factory-2955d45076b)
 - French : [Introduction à la simulation avec NetLogo : comment créer une petite usine ?](https://thibaut-deveraux.medium.com/introduction-%C3%A0-la-simulation-avec-netlogo-comment-cr%C3%A9er-une-petite-usine-b723a87aa002)
